@@ -11,3 +11,6 @@ The [CUNY Digital Humanities Research Institute Curriculum](https://curriculum.d
 
 Some stuff I want to remember:
 - [Resources for Digital Humanities and Social Sciences](https://westgrid.github.io/trainingMaterials/domains/dh/)
+
+[What are Git and GitHub?](sections/01-what-are-git-and-github.md)
+

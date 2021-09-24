@@ -32,4 +32,3 @@ When you're ready to save, scroll to the bottom of the file page you're working 
 
 ### HELP! I need to undo my Merge! 
 - You can do this by [Reverting your Pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/reverting-a-pull-request)
-
