@@ -19,9 +19,7 @@ When you're ready to save, scroll to the bottom of the file page you're working 
    
 ### Undo your changes, a.k.a. [Reverting a Commit](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/reverting-a-commit)
 
-### [How to set up a Page to publish](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)
-
-### [How to create a Folder](https://github.community/t/add-a-folder/2304) The answer is in the green box.
+### [Working with non-code/non-markdown files](https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files)
 
 ### How to Merge 
 - Start from the branch that has the changes you want to incorporate.
@@ -32,3 +30,7 @@ When you're ready to save, scroll to the bottom of the file page you're working 
 
 ### HELP! I need to undo my Merge! 
 - You can do this by [Reverting your Pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/reverting-a-pull-request)
+
+### [How to create a Folder](https://github.community/t/add-a-folder/2304) The answer is in the green box.
+
+### [How to set up a Page to publish](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)
