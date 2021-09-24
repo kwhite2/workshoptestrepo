@@ -10,6 +10,9 @@ Read Mark Sample's ["GitHub Fever"](https://medium.com/@samplereality/i-just-rea
 
 [RUN GitHub How Tos](RUNGithubHowTo.md)
 
+## Workshohp Exercises
+[Exercise 1](RUN_IGAW_Exercise_1.md)
+
 ## Other Resources
 
 The [CUNY Digital Humanities Research Institute Curriculum](https://curriculum.dhinstitutes.org/) materials are superb. This is where I learned my first GitHub skills. 
