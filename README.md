@@ -1,5 +1,4 @@
-# workshoptestrepo
-for testing stuff in the workshop for my own use
+# RU-N Introduction to GitHub for Academic Writing
 
 ## Introduction: Why you might not want to use GitHub for your writing.
 
