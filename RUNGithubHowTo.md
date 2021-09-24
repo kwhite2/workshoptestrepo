@@ -4,6 +4,8 @@
 
 ### [How to create a New file](https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files)
 
+We will create a markdown file for your personal document. Create the file, type in the file name, and add .md at the end to designate it as a markdown file.
+
 **Commit** is how you save a file in GitHub.
 
 When you're ready to save, scroll to the bottom of the file page you're working on. 
@@ -14,6 +16,8 @@ When you're ready to save, scroll to the bottom of the file page you're working 
 - Once you've made your comments, press the Commit button. 
 
    Now you're Committed!
+   
+### Undo your changes, a.k.a. [Reverting a Commit](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/reverting-a-commit)
 
 ### [How to set up a Page to publish](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)
 
