@@ -4,7 +4,7 @@
 
 ### [How to create a New file](https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files)
 
-We will create a markdown file for your personal document. Create the file, type in the file name, and add .md at the end to designate it as a markdown file.
+We will create a markdown file for your personal document. Create the file, type in the file name, and add .md at the end to designate it as a markdown file. Then look at the [Markdown Guide Cheatsheet](https://www.markdownguide.org/cheat-sheet/) to learn how to format this type of file.
 
 **Commit** is how you save a file in GitHub.
 
