@@ -17,6 +17,8 @@ When you're ready to save, scroll to the bottom of the file page you're working 
 
    Now you're Committed!
    
+### [How to set up a Page to publish](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)
+ 
 ### Undo your changes, a.k.a. [Reverting a Commit](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/reverting-a-commit)
 
 If you're a Windows user, you'll need to clone your repository to GitHub Desktop in order to do this. 
@@ -39,5 +41,3 @@ If you're a Windows user, you'll need to clone your repository to GitHub Desktop
 ### [How to invite a collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 
 ### [How to create a Folder](https://github.community/t/add-a-folder/2304) The answer is in the green box.
-
-### [How to set up a Page to publish](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)
