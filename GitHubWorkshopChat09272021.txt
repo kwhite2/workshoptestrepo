@@ -1,0 +1,40 @@
+11:20:32 From  Krista White (she/her)  to  Everyone:
+	Sign up for your GitHub account: https://github.com/
+11:45:11 From  William Graves  to  Everyone:
+	Yes!
+11:45:14 From  Xuanye Li  to  Everyone:
+	Yes
+11:46:06 From  Lanxin Jiang  to  Everyone:
+	Hi, I am sorry I can only come during the break of my course. But I would appreciate it if you could share the recording. Thank you for giving this session!!
+11:48:57 From  William Graves  to  Everyone:
+	Signed in!
+11:49:40 From  Krista White (she/her)  to  Everyone:
+	https://github.com/kwhite2/workshoptestrepo/blob/main/RUN_Intro_to_GitHub_README.md
+11:50:03 From  William Graves  to  Everyone:
+	That link worked!
+11:50:32 From  Xuanye Li  to  Everyone:
+	Yes
+11:54:59 From  William Graves  to  Everyone:
+	Did you get to that page by clicking “Create repository”?
+11:57:58 From  Ann Lynch  to  Everyone:
+	Yes
+12:02:19 From  Krista White (she/her)  to  Everyone:
+	https://www.markdownguide.org/cheat-sheet/
+12:02:28 From  William Graves  to  Everyone:
+	The very first page when you started editing.
+12:02:53 From  William Graves  to  Everyone:
+	Go it, thanks!
+12:12:13 From  Krista White (she/her)  to  Everyone:
+	https://github.com/kwhite2/workshoptestrepo/blob/main/RUN_Intro_to_GitHub_README.md
+12:17:47 From  Krista White (she/her)  to  Everyone:
+	https://github.com/kwhite2/workshoptestrepo/blob/main/RUNGithubHowTo.md
+12:24:12 From  William Graves  to  Everyone:
+	wwgraves
+12:24:26 From  Krista White (she/her)  to  Everyone:
+	I am kwhite2
+12:28:03 From  Krista White (she/her)  to  Everyone:
+	[nameOfnon-markdwonFile](GitHubNameofNon-markdownFile)
+12:28:48 From  Xuanye Li  to  Everyone:
+	Jane-NJ
+12:56:54 From  William Graves  to  Everyone:
+	I need to go teach a class. Thanks, this was really great and helpful!

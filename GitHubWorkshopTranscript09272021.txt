@@ -1,0 +1,442 @@
+11:41:54 Okay,
+11:41:58 so you don't mind, as long as you don't mind recording meeting my wife, I, if you don't mind. Everybody seeing you eating your lunch, I don't mind recording you eating.
+11:42:08 Oh, good. We have another participant.
+11:42:12 Welcome.
+11:42:15 So, the other reason. The other thing that GitHub does very well is collaboration. So, in the case. And this was created by folks who do coding because lots of people contribute to code, and if it was a created as a platform for doing that in the digital
+11:42:40 humanities, there's a lot of collaborative writing. And so that can be useful for me when I'm working with another scholar to write an article, we can work on the project together.
+11:42:53 And unlike word you don't need to pass versions of the document back and forth like and if you and I were collaborating writing an article.
+11:43:05 I would write something and send it to you and you would write some stuff and make changes and then you'd send that version back to me and that, you know, you don't have to do that in GitHub, you don't need to keep copies of different versions, it does
+11:43:18 all of that for you. And it doesn't update anything until you tell it, too.
+11:43:24 So, that's another really great advantage is the sharing aspect without having diversion I don't know about you, but I'm getting to an age where there are mornings I can't remember whether or not I brushed my teeth, much less which version of this article
+11:43:42 I was working on, on Friday before I went away for the weekend. So, that's another big advantage I find with GitHub, and the share ability you can publish a repository, as a page and let people look at it.
+11:43:59 that's what I was trying to do that link, I'm still I still need to investigate why that's not working, but.
+11:44:08 So, what I want to do. Yes, we'll just about that document, I was able to view it over the weekend.
+11:44:16 But then I just tried refreshing the page, and I get a forum for right yeah working announcement. Yeah, I have no idea. I hope it's something on their end and not
+11:44:31 so well we'll figure it but I'll put in links into the chat for everybody to link out to the things that I'm talking about and once you're there, you'll be able to see everything.
+11:44:43 And I'm also going to be sharing my screen during the workshop.
+11:44:47 So you'll be able to see what I'm doing as I'm doing it.
+11:44:52 So, now, does everybody I want to double check and make sure that everyone downloaded and installed, get hub for desktop, as well as, created a GitHub account online.
+11:45:11 If you have not done that.
+11:45:14 You, you at least need to have the GitHub account it.
+11:45:20 The having GitHub desktop installed is not as important, there's really only one function in one of the exercises we need that for, but let me give you information about what the difference is.
+11:45:33 And the reason that I'm having you download both will you'll probably end up using get from the command line if you don't do command line work already it's not that difficult but it's beyond the scope of what I wanted to try to teach people today.
+11:45:52 So that's why I'm defaulting to the web interface GitHub.
+11:45:58 But GitHub for desktop is an instantiate version of get, which is the underlying program that you're working with both on the desktop and online, when you're using the web interface.
+11:46:17 Yes, I will absolutely share the recording. No problem, I'll be sending it out to everyone.
+11:46:26 So, the desktop version is an instant creation that lives on your computer. And what that does is it allows you to have a version of whatever repository you're working on, on your computer.
+11:46:41 So that you can work with it offline, so that you don't have to have an internet connection.
+11:46:47 And then the online version you can create new documents and do things and then copy them to the version that's on your computer, and vice versa. So we'll talk about that and you'll get up to speed with the GitHub lingo because, again, programmers use
+11:47:07 lingo they were comfortable with and not necessarily that regular folks would intuitively understand.
+11:47:15 So, if you are ready, what I want to have you do is sign into your GitHub account just raise your hand.
+11:47:22 Once you're signed into the GitHub account on your web browser.
+11:47:29 Where's the web browser, not through the desktop app.
+11:47:33 That is correct.
+11:47:35 We're going to mostly work in the web browser version and GitHub online. And then when it comes time if if we get that far in the workshop, I will.
+11:47:48 You'll log in with the same account on the desktop version.
+11:47:54 Recently, select Create the repository or not yet, I just say, I just yeah you were already there and I'm on the page okay yeah you're on the page. Yes.
+11:48:11 And what I'm going to do is I'm going to demonstrate first, and then what I'm going to do is set you all loose to do the first exercise in which you will mimic what I did.
+11:48:23 And, you know, if you get lost, please flag me, raise your hand or something. And I will give you some assistance. That's the way tech workshops work
+11:48:40 so well here I'm just going to get hub calm and sign Yes, and signing it. That's correct.
+11:48:55 Okay.
+11:48:57 So once you're there.
+11:48:59 Duplicate the tab so create another tab for your sign in on GitHub.
+11:49:05 Because what I want you to do I'm going to put a link into the repository that I'm using so that you can see the pages and the exercises.
+11:49:18 But I want you to preserve that initial page, because in exercise one you are going to create a repository.
+11:49:26 Okay.
+11:49:37 Because nobody can see it right now I don't know what's happened.
+11:49:43 I just put in the URL for the page for the workshop so that you can see it.
+11:49:56 And now what I'm going to do is I am going to share my screen.
+11:50:09 Go back out.
+11:50:23 Okay, so can you all see my screen.
+11:50:28 It's some the GitHub.
+11:50:32 It's my GitHub homepage I'll go back here. Okay.
+11:50:37 So, this is what you are faced with when you come in and I've got a picture there.
+11:50:44 You probably don't you probably have the little shadow person in there.
+11:50:50 And so what you're going to do is, yes.
+11:50:57 The.
+11:50:58 Let me move this window. Okay.
+11:51:01 All right. So, I'm going to look at my repositories.
+11:51:07 And I've got many of them here. So I'm going to create a new repository.
+11:51:19 This is find a repository, of course, like this most basic thing now I'm hunting around to try to find it, which is terrible.
+11:51:33 So, let's go in And I'm going to go in here.
+11:51:41 Okay.
+11:51:43 Go back out. Yeah. Okay, I'm going to pause our recording, so that we don't have a big recording of me fumbling around.
+11:52:05 Stop the sharing and I'll find this, my apologies.
+11:52:10 Okay.
+11:52:14 Because I'm not beginning I don't have that initial
+11:52:20 item for creating a repository.
+11:52:25 Let's see.
+11:52:28 Oh you know what.
+11:53:28 so my problem was, I wasn't logged in.
+11:53:47 Here we go.
+11:53:54 So I'm going to add a repository, new repository. And for our workshop purposes. I'm going to call it.
+11:54:03 GitHub.
+11:54:08 Practice.
+11:54:08 I can put in a description for the workshop, but you can call it whatever you like. I am going to add a readme file.
+11:54:21 These things don't worry about add get ignore choose a license that's stuff that you don't need to worry about until later. And I'm going to make this public so that you all can see it, I can invite you as collaborators as well which I will do in a later
+11:54:40 part of the workshop.
+11:54:42 But anything public on GitHub means it's really public, which means, anybody can see it, and anybody can fork it which means they can copy it, right. So if you have things that you don't want folks to copy.
+11:54:57 Do not make the repository public make it private.
+11:55:02 So I'm going to create the repository.
+11:55:05 And here we are.
+11:55:06 And then the first thing that I'm going to do
+11:55:12 is
+11:55:16 I'm going to
+11:55:21 look at this the one of the first things that you can do is to edit the readme file, so to edit, edit the file.
+11:55:32 There's a little pencil right there.
+11:55:36 And I can just say, I'm editing.
+11:55:42 For demonstration.
+11:55:45 And then, so you've done editing.
+11:55:48 There's this file that's already created. And then you do something that's called a commit commit changes just means you're saving. That's all you're doing you're saving this change, and get hub is recording the changes that you made, and the fact that
+11:56:04 you saved it. And every time you commit something every time you save something, it gives the, the commit a unique identifier, so you can go back to specific instances of when you saved in order to find changes that you made something that is, is much
+11:56:29 more granular than what you can do in Microsoft Word right like the changes are there, and then you track changes and you bring it up, and you accept or delete them, but then they're gone right there's no record of what you did, other than this new saved
+11:56:47 document.
+11:56:49 But GitHub keeps track of everything you've ever done it, even creates a commit. If you and commit something if you undo a change that you did it, it tells you that you created that and commit, so it even tracks things that that you deleted.
+11:57:10 So I'm going to commit my changes here.
+11:57:15 And now you can see there's my edit.
+11:57:17 If I want to see what the difference was, what did I do, what did I do that was different.
+11:57:27 Click on the blame function, this is, this is called blame, because you want to know if something goes wrong, which part of the code to blame for the error, that's being created, right.
+11:57:42 So, if you go in and look at blame.
+11:57:45 You can see this is the initial, this is the original read me document, and this is my initial commit the first time I saved. Okay.
+11:57:55 And
+11:58:00 if I look at the history.
+11:58:05 And I look at the update to the readme.
+11:58:10 There's what I did. Here's the old version.
+11:58:14 And in green with plus signs, is what I added, when you delete something, it puts it in red with minus signs.
+11:58:27 So you can take a look at what you've done. One changed file. That's great.
+11:58:32 You can make comments if you want to about this thought processes you had about why you made the change that sort of thing.
+11:58:43 But then, let's go back here we are. We're at the readme now.
+11:58:49 If you want to publish a repository. If you want to publish a page for your repository. You will need to create it in the Read Me and you can change the name of this.
+11:59:04 Okay, So you can call it.
+11:59:14 Practice homepage.
+11:59:16 And I'm going to leave the readme in there so that I know that that was the thing and then, before I commit changes this is a good practice that I use it might be too tedious for you.
+11:59:29 But I always update and still say what I did I changed the page name to make more sense.
+11:59:41 And then I commit my changes. And what that does is it tells future me why I did what I did.
+11:59:51 And if you look at it.
+11:59:56 You can see the change I made this is what it looks like when all you do is change the title.
+12:00:01 It puts this out, rather than that nifty side by side, green coded little diagram. And you can see here's the note that I did change the page to make them to make more sense.
+12:00:17 So to go back to the repository the main repository.
+12:00:22 I just hit code.
+12:00:24 Okay.
+12:00:27 Now what I'm going to do is I'm going to add a file.
+12:00:34 So you can either upload files. You can upload Word files but you can't really change them well.
+12:00:44 You can upload image files, all kinds of different files to attach to any of your repositories, but I'm going to create a new file.
+12:00:57 And I'm going to call it.
+12:01:04 First page.md.
+12:01:11 Why am I doing.md.md is a file name type, you know how your Word documents are like doc. Doc x Excel documents RXLSX. So MD is another file type. It's stands for markdown language, and it's very similar to HTML, in a lot of ways.
+12:01:32 So what you're doing when you're creating a page like this, is you're creating a page of code.
+12:01:39 And in the email I first sent you. I sent along a link to the markdown language dictionary.
+12:01:50 Let me put that in the chat for you.
+12:01:57 And I'll give you the link to the cheat sheet, because that's all you really need for today's workshop.
+12:02:16 Did I get to that page by clicking Create repository.
+12:02:32 I'm sorry. Will which page Did you mean the very first page I started editing. Yeah, so I I created the repository first.
+12:02:40 By clicking up here new repository. And when I did that remember I checked off the box. That said, create a readme page.
+12:02:49 That's what that did.
+12:02:51 So that was a readme page.
+12:02:55 Does that make sense.
+12:02:56 Okay, great.
+12:02:59 So I'm creating this first page, and I'm editing and you can see here, these two carrots.
+12:03:07 That indicates that you are in the code to create this page, so I'm going to write. Just a couple of things. This is the first page, I'm creating.
+12:03:21 And I'm going to go down and I'm going to use some markup language to format this a bit, So I'm going to use a pound sign which gives me a header.
+12:03:33 And I'm going to call this new page heading.
+12:03:40 There are lots of functions you can use to make this work. just like a web page.
+12:03:51 Okay. And then what you can do is preview.
+12:03:55 And this is what it's going to look like as a web page.
+12:04:00 See, This tag this mark made this into this big heading with an underlying on it.
+12:04:10 And then I need to.
+12:04:13 I need spaces between these, so that they come out as normal text.
+12:04:21 Now what I'm going to do is I'm going to commit my changes. So I'm going to call this created new page.
+12:04:29 Initial commit.
+12:04:35 Okay so here I am, I've got my README page. And this page that I just created.
+12:05:01 And now what I'm going to do is I'm going to create a branch anytime you want to make changes that you're not sure you want to save.
+12:04:56 You can create a branch.
+12:04:58 You can see right now up here, we're on main, main is always the default when you create a new repository. You can make another branch. The default branch but I usually leave it at Main so that I, I can keep track more easily.
+12:05:15 So right now, if I click on branch, it says see default branch main branch. If I say all branches, main is the only branch I have. So it includes the main branch, as a branch when it's doing its counting.
+12:05:35 So now if I go back to the repository GitHub practice.
+12:05:40 I can create a new branch.
+12:05:49 By clicking on the pulldown menu.
+12:05:53 And I can call this practice branch, one.
+12:06:02 And then I click here create branch practice branch one.
+12:06:10 So now, once I create that branch, I automatically GitHub automatically takes me to that branch.
+12:06:18 Okay.
+12:06:21 You can see I'm in practice homepage.
+12:06:27 Uh, no, I'm in practice branch one, but I can go back to the main branch by clicking the pulldown menu.
+12:06:37 What happens when you create a branch is that it copies, everything from the branch that you indicate so it copies in this case it copied everything from the main branch.
+12:06:49 So now these are exact copies of what I have in the main branch.
+12:06:54 This is why you don't need to save versions of things and GitHub, because that's what it does it saves, it's automatically saving versions of everything, especially when you create a branch.
+12:07:10 So I've got two identical. I've got two branches here with identical content.
+12:07:17 And let's say I want to change
+12:07:23 my first page somehow.
+12:07:27 I'm going to put in a hyperlink to the markdown cheat sheet.
+12:07:32 So if I do that, I want to edit. I'm in my paint practice branch, so nothing is going to get changed in the main branch, the same page and the main branch is going to remain unchanged.
+12:07:46 Now what I'm going to do is I'm going to edit.
+12:07:50 I'm going to say.
+12:07:54 Link to
+12:08:01 markdown cheat sheet now I've been working with this for a while so I happen to know what the markdown code is to make a hyperlink.
+12:08:11 So you put the text you want to show up in brackets, and then you immediately create a set of parentheses and put the web address the URL for the web page into those parentheses and now you can preview it.
+12:08:30 See,
+12:08:30 and there's a link there.
+12:08:34 I'm going to make that change commit.
+12:08:38 But first, added markdown cheat sheet to page.
+12:08:49 Going to commit my changes.
+12:08:53 Let's take a look. History
+12:09:03 and see here's what I did.
+12:09:06 I added a line and then added this, this is the original. Here's what I just did,
+12:09:16 did not mean to do that.
+12:09:21 Because I committed my changes it doesn't matter that I clicked away here I am in GitHub practice.
+12:09:27 Always be careful about noticing where you are. When you make changes, okay, because where you are is where the changes are going to get made and they're not going to get made anywhere else.
+12:09:42 That's one of the ways because this site was created for coders, they didn't want to change code, unless it was completely on purpose. So if you're messing around and experimenting with code, you don't want your main code to have changes made to it until
+12:10:00 you know those changes will work. Right. So that's why when you change when you create a branch.
+12:10:09 You know I can mess around and do all anything I want in my practice branch, and then nothing happens in my main branch, until I do a pull request and emerge and we'll talk about those later.
+12:10:25 But now you can see, I get a notification private practice branch has one recent push one minute ago, that means I changed something and I can compare.
+12:10:39 Right. So this says it's able to do emerge and we'll deal with that later.
+12:10:48 I don't want to confuse you. So there's a notification there that there's something different when you see this you know that there's something different and you can investigate it.
+12:10:56 I'm also going to I'm just going to upload a file really quickly.
+12:11:04 Just any inconsequential file blank page, Doc x looks great.
+12:11:14 Okay, there's a file. I uploaded it twice so I can get rid of one, and then
+12:11:25 commit the changes.
+12:11:30 Oh and see I did that on my main branch right I wasn't paying attention, and I did it on my main branch. So now this blank page is on the main branch.
+12:11:40 That's okay.
+12:11:41 All right, so I'm going to stop here.
+12:11:44 Please give me your questions I'm going to stop sharing my screen.
+12:11:49 Please give me your questions and then I want to have you do what I just did on your own.
+12:11:56 And you can ask me for help.
+12:12:10 And the instructions for doing it, are in exercise one on that initial GitHub page.
+12:12:22 And I just put that back in the chat again for your reference.
+12:12:46 Stop Recording while you're working I'm going to give us about 10 minutes, and just let me know when you are done you can put something in the chat.
+12:13:32 I have one quick question how do you delete the repository that I just created when they're following you.
+12:13:39 So I also have one that and get hub workshop and I was great way that you want to delete one. Um, let's see, I've got instructions for that.
+12:13:53 On deleting I think if you go in and go to settings, right so you're in the main repository page. And you can see code issues pull request settings is on the far right, you see that there
+12:14:09 are you working on a Mac or a PC, I forgot.
+12:14:15 I don't know Mac. Okay, so your, your screen might look a little bit different than mine.
+12:14:26 I'll share my screen.
+12:14:28 So the question is,
+12:14:32 Jr.
+12:14:37 created a repository, they didn't mean to and so they want to delete it.
+12:14:40 And I'm going to share my screen so you can see.
+12:14:50 Okay so here I am.
+12:14:53 I'm in the repository here all the pages, Hollywood, and documents from my repository and right up here it says settings that you see that on yours. Yeah, okay, because she's working on a Mac and I'm working on a PC so I wanted to make sure that that
+12:15:10 was clear and then so click on settings.
+12:15:15 I think you can delete from there. Or maybe not.
+12:15:23 One moment.
+12:15:29 I know there's a way to do it.
+12:15:32 Let's do it. Afterwards, don't worry about that just create the new repository and I'll show you how to delete one at the end. Sure.
+12:17:34 If you're having trouble. I did create a little cheat sheet.
+12:17:50 Just put that in the chat it's also on that main page that I shared with you.
+12:17:57 The intro to GitHub page, under GitHub how to sew. There are links there to instructions for everything that I've done and everything that I plan to do for this workshop.
+12:18:42 You're working on a Mac or a PC will.
+12:18:47 I'm working on. Excuse me, I'm working on a Mac. Okay.
+12:18:52 So if there are things you don't see please let me know. Both of you since I'm working on a PC.
+12:19:04 Yeah. Right now I'm just at the doing a little markdown formatting on the class notes that indeed. Oh, great.
+12:19:18 If you want to forge ahead a little bit. Um, one of the things I wanted to do was have you work with a document that you will actually find useful like a syllabus.
+12:19:30 So if you wanted to create a syllabus that you wanted to share with students every semester, I, you can copy and paste like I copy and paste directly from word it doesn't preserve all the formatting but it preserves A lot of it.
+12:19:45 In the readme file.
+12:19:47 And since that's the page that will display automatically when I share with the students.
+12:19:54 It's the one that I create as the syllabus and then I can hyperlink out to other documents that I've put in the same repository for them.
+12:20:09 Or you know you can do code to, if you've got code you want to mess around.
+12:20:19 That's a good idea.
+12:20:19 Thanks.
+12:20:23 Remember, because this is a public repository. Anybody who ends up finding your repository is going to be able to see and copy that code.
+12:20:41 I'm going to do the simplest thing my code is so nasty no one would want to see.
+12:20:52 At least you can write code I'm still getting my brain wrapped around writing code, I'm, I'm still at the stage of Python like so.
+12:21:00 Well, yeah, you have problems to solve to get grants submitted it becomes the kind of force it.
+12:21:09 Yeah, yeah, it's something I have to sort of learn, I mean it's great to have it and it would be really useful but it's not part of the core duties that I have so that's why I haven't yet gotten down and dirty with it, Except
+12:21:29 Junior you.
+12:21:31 Are you ready to go.
+12:21:37 I am sealing this next step of creating my files.
+12:21:43 Okay.
+12:21:44 But you if you have like, If you want to keep on moving then I just pause here and go back to the task later.
+12:21:52 Well I I'm doing all of this is sort of necessary it's an iterative process so please do finish.
+12:22:04 Yeah, so you're creating your files have you. Does that mean you've created a branch yet or not.
+12:22:10 No I haven't gone to the branch so it's like a good point in having that stuff. Okay, oh yeah don't do a whole bunch of that stuff.
+12:22:19 You can just yeah commit your changes and then create a branch right.
+12:22:26 And once you've created a branch make a change to one of your pages in that branch
+12:22:36 and upload a file like a you know a default picture from, from your Mac or, or what have you.
+12:22:48 But I'm glad you were practicing, because that's the best way to learn the markdown language is to, you know, type it out.
+12:23:55 what would you mind putting your GitHub username in the chat for me.
+12:24:06 Sure.
+12:24:13 I'll be adding both of you as collaborators to my repository, so that we can do some of the other exercises leader on.
+12:24:50 Let me know when you've created your branch and edited in your practice branch edited one of the documents in your practice branch chain Yeah.
+12:26:43 Just
+12:26:45 trying to create the branch, the branch thing. Okay.
+12:26:51 So I'm just fumbling around a bit, trying to figure that out.
+12:26:55 That's, that's good though.
+12:26:57 fumbling is the first step to becoming the master.
+12:27:17 To have had you I have hyperlinked the branch to the flyer just uploaded.
+12:27:23 Okay, so if you.
+12:27:26 You can't. So you uploaded a flyer as your extra document.
+12:27:31 Yes, like a photo. Okay. All right, so what you're going to want to do is create a hyperlink in the other page, the page that has the markdown the markdown page.
+12:27:45 Okay. Oh, yes.
+12:27:49 And.
+12:27:56 And so in the chat, I'm going to put the code for you, so that you can link to that.
+12:28:09 To that picture you upload it. So what it's going to do.
+12:28:22 Sorry I'm trying to get the recording to go again. Okay.
+12:28:29 And it doesn't want to cooperate.
+12:28:41 Huh.
+12:28:57 Okay, I'm getting some weird stuff with my interface here on zoom.
+12:29:04 But what you're going to want to do is link out.
+12:29:09 So, let's see.
+12:29:24 I'm getting a lot of lag, and I think it's because we're hitting there probably a lot of folks on zoom right now, having meetings. So I'm gonna see if I can turn off my video, But my screen is lagging.
+12:29:45 And unfortunately I can't make one of you a host so if I close out, it's going to close this down.
+12:31:13 We are we still here.
+12:31:14 Yes. Yay. Okay.
+12:31:17 I had to instantiate tons of zoom open and that seemed to be the problem I don't know how that happened. peculiar, and then glad it's yeah it's survive.
+12:31:27 Okay.
+12:31:33 Okay. Um, we can move forward. I'm going to continue the recording.
+12:31:42 All right, so you've got your branch. And now let's say you want to incorporate the changes from that branch into your main pages they're different now right because you created the branch and then you made changes in your branch page, but now you want
+12:32:00 the main page and the branch page to be the same. And that's where you do a merge, but to do a merge.
+12:32:08 So you're merging the two branches right but to do a merge, you have to initiate what's called a pull request this language doesn't make a lot of sense.
+12:32:23 As it as a term. And I think what it is is that you are requesting that the owner of the main code, pull your code into the main code I think that's where that terminology comes from.
+12:32:40 So, you have to do a pull request in order to merge the documents. And from this point forward. Let's do follow along, rather than stop in and let you do it on your own and then you can always review the recording.
+12:32:58 If you want to get some practice in so I'm going to share my screen with you, and just follow along with what I'm doing, please ask me to pause if you get lost.
+12:33:15 Okay.
+12:33:21 So here I am.
+12:33:23 I'm in the main
+12:33:26 branch, but I'm gonna go oops, this is the wrong repository. There we go. So I'm in the practice branch right. I'm not in the main branch I'm in the practice branch, that's where you want, if you are if you want to go from one branch into another one
+12:33:47 you have to start at the branch where you want to your code or your changes to come from. So, our changes are coming from the practice branch, and we're going to put them into the main branch.
+12:34:00 So what I'm going to do is I'm going to go up to pull requests, up here.
+12:34:11 And you can see remember that notification I got branch one has had recent pushes 25 minutes ago. So I'm going to compare and pull request you can also just do a new poll request if you want.
+12:34:25 If this is not, if you've made some changes to something but this is not what you want to merge, you can always do a new poll request and find something else.
+12:34:35 So let's do that because this is easy. This is more difficult. I'm going to do a new poll request. Okay, and choose different branches or forks to compare and review changes.
+12:34:49 So, I'm going from see it says going from the main to the main that's not what I want. What I want to do is I want to go from practice branch one to the main branch.
+12:35:05 This is kind of backwards right.
+12:35:09 Always look at the direction of your arrow.
+12:35:13 Okay, so here are the changes it's giving me the changes side by side.
+12:35:18 Okay.
+12:35:20 And this says able to merge these branches can be automatically merged that's not always the case. Sometimes you get.
+12:35:30 Sometimes there are changes that are different, like if I had made changes in the main branch that I didn't that I didn't that weren't included in the practice branch, it would tell me, we can't
+12:35:43 we can't reconcile these changes without your intervention, it would say, you know, these can't be automatically merged, you need to look at these and reconcile, but because I've only made the changes in the practice branch it's like yeah we can do this
+12:35:59 automatically. So I'm going to create a pull request.
+12:36:03 Okay.
+12:36:07 I can write Lang, I can write notes. This is really good for code, or if, say you are collaborating on a document like a journal article, you can say, Oh, this is what I was thinking when I created these changes.
+12:36:25 Let me know if that works for you. And then I can create a pull request you can do different types.
+12:36:32 You can, but let's just create a pull request right now.
+12:36:45 And then you see this here so this means this pull request is open.
+12:36:53 It means it's it's there, somebody created a pull request and it's waiting for you to approve or make the changes.
+12:37:04 Okay, so you can see what the changes are.
+12:37:11 This branch has no conflicts.
+12:37:15 So you can look and say oh yeah okay this is what got changed Okay good.
+12:37:25 And then you're back at the conversation and you can say yeah those changes are good. Or you can respond and say no I don't want these changes.
+12:37:37 There are different kinds of merges you can do, I wouldn't worry about that. Just go ahead and merge your pull request.
+12:37:47 And then it's going to say Are you sure you say yeah, I'm sure.
+12:37:56 And then, if it's successful, it automatically closes the pull request.
+12:38:04 And because this is about code and you've integrated that code, or that writing into the main document. It's saying hey, you've integrated that stuff do you want to just delete this branch, so that you don't have to be confused by its existence anymore
+12:38:23 changes are already integrated we can get rid of the branch. It's totally up to you. I tend to leave branches. But that also means that I get confused very easily so I should really start deleting.
+12:38:37 I'm going to leave this one though for the purposes of our demonstration and then I'm going to go back out to the main repository.
+12:38:48 And you can see merge pull requests number one.
+12:38:53 There it is.
+12:38:58 And I can look and see what the file changes I can review the changes reviews are just like you know they're just substantive comments it's not you know it's like a literature, it's like a review of a manuscript in a, in a professional journal.
+12:39:18 Okay, so that was our merge right and then our next item.
+12:39:28 Yep.
+12:39:30 So
+12:39:34 the next thing I want us to do is publish that initial Read Me page. So that would be the practice homepage, or your syllabus. If you copied and pasted your syllabus in there.
+12:39:49 So Publishing's pretty easy.
+12:39:53 You click on the page, the readme page or whatever you've decided to rename it for the repository. It's the default page for the repository, click on it and go to Settings.
+12:40:17 You've got a whole list of things you can do here. These are settings for your whole this whole repository. It applies these things to the whole repository not to individual pages.
+12:40:30 So you can, we'll talk about managing access to the repository later but scroll down and you can see pages here
+12:40:38 on the left hand side.
+12:40:44 Click on pages.
+12:40:47 You can see GitHub Pages is currently disabled. That's the non option.
+12:40:55 And so if you want to turn a page off and make it no longer available, you would go back to this nun option.
+12:41:05 But we want to publish the readme from our main branch, and so you'll choose main.
+12:41:15 You can do nice things you can install and create themes. You can also create really nice web pages with Jekyll I haven't done that yet, but you can create a whole accessible user friendly ecosystem around your GitHub Pages.
+12:41:36 But, just click Save.
+12:41:41 And then it gives you a URL for your page.
+12:41:46 So go ahead and copy and paste that into your web browser, and take a look at what you got.
+12:42:12 Oh yeah, I get a forum for error. Sometimes it takes it, they do warn you that it can take 20 minutes for the changes on the GitHub server to initiate so that you can see them so we'll come back to this will look at our pages in a little while and see
+12:42:12 if they
+12:42:13 if they've gone public they should have.
+12:42:17 So that's your pages.
+12:42:22 We did our merge already.
+12:42:25 Okay, Now we're going to add each other as collaborators to our repositories. This is so you can make changes in my repository I can make changes in your repository.
+12:42:40 If we want to collaborate on something.
+12:42:43 So we're still in GitHub Pages. We're still in the settings of the repository, go to manage access,
+12:42:55 who has access this repository is public and visible to anyone, direct access collaborators have access to this repository only you can contribute to this repository.
+12:43:09 So, I'm going to invite you as collaborators to my repository.
+12:43:14 You can return the favor.
+12:43:30 And you were.
+12:43:33 I can't. Oh, let me see, let me access the chat. Okay.
+12:43:38 You were
+12:43:42 Jane and Jay
+12:43:51 and WW graves.
+12:44:08 So invited you both
+12:44:17 know it's giving me this little thing at a read me because I changed the name of the readme file.
+12:44:27 But you don't have to add another read me.
+12:44:31 Unless you want to.
+12:44:44 Can you both gotten the invites.
+12:44:46 I'm going to stop sharing my screen
+12:44:52 will would you can you share Did you accept my invite already.
+12:44:59 Would you did.
+12:45:00 Okay.
+12:45:05 Junior, have you accepted my invite already aware, where, where can I see your emails, you know, okay.
+12:45:13 Yeah,
+12:45:30 it's out there is something pop up from, you know, I thought there too. Yeah.
+12:45:34 And then I have to look at my email to see your invites.
+12:45:41 So give me half a second.
+12:46:16 there I accepted your invitation will rate.
+12:46:21 And it popped me, I hit the link in my email and it popped me right over to your repository way.
+12:46:30 So I'll share my screen again so that y'all can that folks watching the video can see.
+12:46:50 Okay so here we are, and this is where my email popped Me too. You can see it's got wills username there, forward slash GitHub practice so this is his GitHub practice repository and now I have access to it.
+12:47:07 And I can
+12:47:14 create a branch,
+12:47:21 so that I don't mess up his main code.
+12:47:25 I'm in Christmas branch. And now I can do things in his documents.
+12:47:46 I'll do the markdown cheat sheet again, just because it's up and easily available
+12:48:02 commit the changes.
+12:48:09 And so I created changes to this branch, I could do a pull request now will, and you could say, No, I don't want your changes, or you can merge them.
+12:48:19 So this is kind of a foolproof way of, you know, collaborating on code on documents anything because nothing in your main branch gets changed. Unless you want it to after, after a pull request and emerge.
+12:48:40 I do want to say that, probably the best reason to use GitHub for writing in the humanities is for things like feces and dissertation, because Microsoft Word.
+12:48:59 was not designed for the kinds of things that your theses and dissertations.
+12:49:08 And so, creating your dissertation in markdown language and then importing it to Microsoft Word is going to save you a lot of headaches, because sometimes in Word.
+12:49:23 Formatting conflicts, and I have had folks with their dissertations come to me in tears because literally come to me in tears because they copied and pasted part of one document into another document and it messed the formatting up for everything, and
+12:49:45 they couldn't fix it.
+12:49:47 So, using markdown language to write your thesis and dissertation avoids all of that right and then ultimately when you need to make a PDF of it you can import it into Word, and it will work.
+12:50:03 That will work just fine and you can do some of the extra formatting you need to do.
+12:50:08 It'll work just fine and you can do some of the extra formatting you need to do. There is no function for end notes in markdown language, there is a function for footnotes, however, but endnotes can be done.
+12:50:19 Um, probably the easiest way to do it if you're planning to copy and paste from markdown into Microsoft Word is just to put your end notes at the end of what you're writing every time, and then doing the formatting for them once you're in Word.
+12:50:40 You can do something called anchor links. It's, they're called anchor links in HTML, there's a similar function in markdown language that you can use for you can link within the document to the individual notes that you have is and notes.
+12:50:55 And you can do that, that's fine but it might take some finagling. Once you've worked imported it into Word I'm not sure how that works. I haven't done it yet I haven't experimented with that.
+12:51:08 So I'd be interested to hear if someone does it and, and I'd be interested to hear how it turns out. What ends up happening.
+12:51:22 Okay, I'm gonna stop sharing my screen momentarily. And so, forking forking is basically what you're doing with a fork is you're copying someone else's repository.
+12:51:40 So let's say you've been working separately with someone on a project, they've been working in their repository, you've been working in your repository.
+12:51:55 And you want to.
+12:51:59 You want to merge the two.
+12:52:02 What you can do is one person can fork, write copy the other person's repository, and you can create branches from there, right, again this is all safeguarding all of these functions are about safeguarding the original documents that you have right so
+12:52:20 you copy their repository at a point in time, and you can create branches and things, and then do pull requests and and and other functions to get all of your code integrated.
+12:52:35 One of the things that humanities folks use forking for a lot of people fork Silla by, so they'll take someone syllabus for a similar class and fork it and then adapt it for their own use.
+12:52:51 And I'm sure you can see the uses of forking with code, you know you have a similar function you need to perform and you don't want to write all the code from scratch you can take code that mostly works for get.
+12:53:06 And then edit it in order to create code that works for your particular purpose rather than reinventing the wheel.
+12:53:22 So the way that you would fork it's pretty easy to fork something.
+12:53:28 If I go and I will let me get to the right spot.
+12:53:51 So here I am, I'm in will get hub practice.
+12:53:59 There's the fork button right there.
+12:54:01 Oh, look at all this cool stuff that will has it's up in the upper right hand corner of the screen.
+12:54:09 Now, what's funny is you can't fork your own stuff right like it's easy to think of these things as files.
+12:54:19 But GitHub won't let you fork your own things because GitHub. The logic is, you already have this repository Why do you need to copy it. You know, you can make changes of it right you can create a branch if you don't want to change anything, so you don't,
+12:54:33 it won't let you do multiple copies of your own stuff. You always need to fork, someone else's material. So I'm going to fork. And I belong to two organizations, this is a, This is one organization that I belong to you on GitHub and then I'm my other
+12:55:07 I'm going to copy wills repository to mine.
+12:55:07 I'm not going to add a read me he's got the syllabus empty.
+12:55:15 And this branches, even so I could have put it there are ways to transfer things from branch to branch. I won't go over those today, but you can do that.
+12:55:29 And I'm in class notes.
+12:55:36 And I can do pull requests to integrate what will has in here.
+12:55:44 After creating branches so that's that's really all I have to kind of get you started you have questions about this, I know from a business standpoint.
+12:55:58 I'm not sure if you would find this useful.
+12:56:03 Junior. So, what are your thoughts. Thank you. I think this is very useful. Okay.
+12:56:15 Just.
+12:56:17 I mean, are we going to end the workshop, I just have.
+12:56:21 Yeah, you know I can't I'm going to stop recording the workshop, but I can stay on until 130 to help you out with things.
+12:56:30 Yeah, I do have one question is just, like, about heading and, Yes, having Hey just share my screen.
+12:56:42 Okay.
+12:56:43 Yeah, I'm still recording is that okay or would you like me to stop.
+12:56:47 Because I think other folks would probably have the same questions you do.
+12:56:53 Okay, okay, I'll do, like, Jade Helm desktop
+12:57:00 Boys, this should be one like that now I'm here and if I click Preview then it's, it's not, I was expecting some headings that ah ok yes go back to your edit file.
+12:57:15 Okay, so you have to create a space between those hashtags and the text, yes, there you go.
+12:57:24 And now look at your preview. Right.
+12:57:28 Yeah. Yes, perfect.
+12:57:31 Yes. You're welcome.
+12:57:32 Welcome to coding,
+12:57:36 my code doesn't work and I don't know why.
+12:57:46 Anything else you want to ask about, um, so far I'm good, thank you so much. All right, great. I'm gonna.
+12:57:50 I'll stop the recording and yeah please email me if you have any questions, and just so much for your time. Yes, thank you for coming. I appreciate it.
+12:58:00 Have a good day. Thanks, you too. Bye. Bye.
