@@ -19,7 +19,10 @@ When you're ready to save, scroll to the bottom of the file page you're working 
    
 ### Undo your changes, a.k.a. [Reverting a Commit](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/reverting-a-commit)
 
-If you're a Windows user, you'll need to clone your repository to GitHub Desktop in order to do this. Then you'll need to [Push your changes back to GitHub](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github).
+If you're a Windows user, you'll need to clone your repository to GitHub Desktop in order to do this. 
+
+- #### [Cloning a repository from GitHub to GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)
+- #### Then you'll need to [Push your changes back to GitHub](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github).
 
 ### [Working with non-code/non-markdown files](https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files)
 
@@ -38,5 +41,3 @@ If you're a Windows user, you'll need to clone your repository to GitHub Desktop
 ### [How to create a Folder](https://github.community/t/add-a-folder/2304) The answer is in the green box.
 
 ### [How to set up a Page to publish](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)
-
-### [Cloning a repository from GitHub to GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)
