@@ -41,3 +41,5 @@ If you're a Windows user, you'll need to clone your repository to GitHub Desktop
 ### [How to invite a collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 
 ### [How to create a Folder](https://github.community/t/add-a-folder/2304) The answer is in the green box.
+
+### [How to delete a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository)
