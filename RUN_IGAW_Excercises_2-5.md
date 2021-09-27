@@ -14,14 +14,17 @@ Be sure that you are publishing from the MAIN branch and not GitHub_Practice_bra
 [Add a collaborator to GitHub_Practice](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository).
 
 ## Excercise 5: 
-Fork your collaborator's repository.
-Add resources (pages, files, etc.) to the repository.
-Make a pull request to incorporate changes.
+1. Fork your collaborator's repository.
+2. Add resources (pages, files, etc.) to the repository.
+3. Make a pull request to incorporate changes.
 
 When someone sends a pull request:
-Review their request.
-Make a comment.
-Do a merge.
+
+4. Review their request.
+5. Make a comment.
+6. Do a merge.
+7. Look at the changes to your document/repository.
+8. Revert the pull request to undo the merge.
 
 
 
