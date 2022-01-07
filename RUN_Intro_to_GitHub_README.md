@@ -10,7 +10,7 @@ Read Mark Sample's ["GitHub Fever"](https://medium.com/@samplereality/i-just-rea
 
 [RUN GitHub How Tos](RUNGithubHowTo.md)
 
-## Workshohp Exercises
+## Workshop Exercises
 [Exercise 1](RUN_IGAW_Exercise_1.md)
 
 [Exercises 2-5](RUN_IGAW_Excercises_2-5.md)
