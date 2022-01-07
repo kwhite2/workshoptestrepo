@@ -21,3 +21,18 @@ The [CUNY Digital Humanities Research Institute Curriculum](https://curriculum.d
 
 Some stuff I want to remember:
 - [Resources for Digital Humanities and Social Sciences](https://westgrid.github.io/trainingMaterials/domains/dh/)
+
+GitHub Pages
+[Getting Started with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages)
+
+[Changing the Visibility of Your GitHub Pages Site](https://docs.github.com/en/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site)
+
+[Configuring Publishing Sources for GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)
+
+
+
+Pull requests: https://www.dummies.com/web-design-development/what-are-github-pull-requests/
+
+https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+
+Merging pull requests: https://docs.github.com/en/github/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request
