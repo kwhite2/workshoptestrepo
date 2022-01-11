@@ -43,3 +43,9 @@ If you're a Windows user, you'll need to clone your repository to GitHub Desktop
 ### [How to create a Folder](https://github.community/t/add-a-folder/2304) The answer is in the green box.
 
 ### [How to delete a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository)
+
+## How to push a new verison of a file from the command line. 
+- add
+- commit
+- $ git push (nameOfRepositoryOnGitHub) (branchYouWantItToGoTo)\
+- EX: $ git push https://github.com/kwhite2/git-practice.git main
