@@ -7,6 +7,6 @@
 7. Add a new, ***non-markdown file*** to the GitHub_Practice_branch1. Upload a file such as a .PDF, or .CSV file.
 <!--- I purposefully did not remind students to commit changes in the last instruction. I wanted them to learn to do it automatically.
 -->
-8. Hyperlink in the GitHub_Practice_branch1/Syllabus.md to the new file you just uploaded.
+8. Hyperlink in the GitHub_Practice_branch1/Syllabus.md to the new file you just uploaded.*
  
-To create the link in the syllabus, use `[nameOfnon-markdwonFile](GitHubNameofNon-markdownFile)`. What's in the brackets will be the text and what's in parentheses will be the name of the file in GitHub_Practice_branch1.
+*To create the link in the syllabus, use `[nameOfnon-markdwonFile](GitHubNameofNon-markdownFile)`. What's in the brackets will be the text and what's in parentheses will be the name of the file in GitHub_Practice_branch1.
