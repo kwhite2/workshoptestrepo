@@ -1,4 +1,4 @@
-# RU-N Introduction to GitHub for Academic Writing
+# RU-N DHRI 2022 Introduction to GitHub
 
 ## Introduction: Why you might not want to use GitHub for your writing.
 
