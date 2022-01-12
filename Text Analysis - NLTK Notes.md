@@ -19,12 +19,18 @@ Provides a list of words that appear in similar contexts to a term throughout th
 Similarity information: https://kavita-ganesan.com/what-is-text-similarity/#.Yd8rQd9Omcw
 
 ### Word Postions using Dispersion Plots
-- Plots where in the text terms appear
-- Compare multiple terms to see where they appear in the text
+- Plots where terms appear *throughout a text.*
+- Compare multiple terms to see where they appear in the text.
 
 Viewing and comparing where terms appear in a text provids clues to its structure and narrative.
 
 ### Word Count
+
+### Lexical Density
+- How many unique words per total words aka the ratio  of unique words to total words in a text.
+- Useful for understanding complexity of a text. This assumes that unique words = complexity/sophistication of language.
+
+
 
 
 
