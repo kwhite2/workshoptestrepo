@@ -30,6 +30,9 @@ Viewing and comparing where terms appear in a text provids clues to its structur
 - How many unique words per total words aka the ratio  of unique words to total words in a text.
 - Useful for understanding complexity of a text. This assumes that unique words = complexity/sophistication of language.
 
+## How to Import Files from Your Computer Into NLTK for Analysis
+[NLTK.org](https://www.nltk.org) has an updated copy of Natural Language Processing with Python that provides step-by-step instructions for importing files from your local computer for use with NLTK. See [Chatper 3, "Processing Raw Text"](https://www.nltk.org/book/ch03.html) and scroll to the "Reading Local Files" section.
+
 
 
 
